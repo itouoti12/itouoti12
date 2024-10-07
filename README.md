@@ -25,7 +25,7 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 - 🎓 Graduated from the Faculty of Informatics
 - 🚀 Love to think how the engineering environment is more efficient by automation
 - 🏂 Tend to challenge, but also be prepared to take risks
-- 🖥️ My portfolio at (<a href="https://portfolio.dev.ito-u-oti.com/" target="blank">https://portfolio.dev.ito-u-oti.com/</a>)
+- 🖥️ My portfolio at (<a href="https://portfolio.dev.ito-u-oti.com/" target="_blank">https://portfolio.dev.ito-u-oti.com/</a>)
 
 ## What is my unique personality at work
 - 📖 Make a code emphasizes readability and maintainability over efficiency
