@@ -11,6 +11,8 @@ src="https://img.shields.io/github/followers/itouoti12?logo=github&style=for-the
 I'm a Web Application Engineer.
 Experienced System Developer at Front End for 3 years, at Back End for 4 years, and at Full Stack for 2 years. I have been committed to creating attractive software with enthusiasm. Improving applications continuously, Enhancing customer satisfaction, and Making a comfortable engineering environment with CICD have been important points of view for me in those experiences. I sincerely enjoy collaborating with teams to produce good software.
 
+<a href="https://www.buymeacoffee.com/itouoti12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 # Summary
 
 
@@ -608,5 +610,7 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 ![Kansuke Ito's GitHub stats](https://github-readme-stats.vercel.app/api?username=itouoti12&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itouoti12&langs_count=8&theme=radical)
+
+
 
 
