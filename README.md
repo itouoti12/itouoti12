@@ -52,40 +52,11 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 
 ### Technology
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://vectorwiki.com/images/F79rZ__react-native.svg"
-      alt="reactnative"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="60"
-      height="30"
-    />
-  </a>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"
-      alt="expo"
-      width="60"
-      height="30"
-    />
-  </a>
-  
 ## [Storytailor](https://storytailor.app.ito-u-oti.com/)
 
 **Storytailor transforms your saved English vocabulary into illustrated stories, helping you learn words through context. Each story features your selected words highlighted in red, with instant translations available. This immersive approach helps train your brain to think in English naturally while making vocabulary learning engaging and effective.**
@@ -96,47 +67,11 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 
 ### Technology
 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://vectorwiki.com/images/F79rZ__react-native.svg"
-      alt="reactnative"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"
-      alt="expo"
-      width="60"
-      height="30"
-    />
-  </a>
-  <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noreferrer">
-    <img
-      src="https://upload.vectorlogo.zone/logos/openai/images/2d0c228b-22e2-44ae-8fbd-d1d7646605c2.svg"
-      alt="openai"
-      width="30"
-      height="30"
-    />
-  </a>
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ## [InstantPodEdit](https://1shotedit.com/)
@@ -146,59 +81,13 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 [![screenshots](/assets/instantpodedit.png)](https://1shotedit.com/)
 
 ### Technology
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-      alt="nextjs"
-      width="60"
-      height="30"
-    />
-  </a>
 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="30"
-      height="30"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a href="https://replicate.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/replicate.svg"
-      alt="replicate"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a href="https://www.runpod.io/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.prod.website-files.com/67d20fb9f56ff2ec6a7a657d/685b36ec78014e86b337b96b_runpod-logo-square-p-1600.webp"
-      alt="replicate"
-      width="30"
-      height="30"
-    />
-  </a>
-
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Replicate](https://img.shields.io/badge/Replicate-000000?style=for-the-badge&logo=replicate&logoColor=white)
+![RunPod](https://img.shields.io/badge/RunPod-6366F1?style=for-the-badge&logo=runpod&logoColor=white)
   
   
 
@@ -207,76 +96,14 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 # Experienced Skills
 
 ## Languages
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-      alt="dart"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Front End Framework
 <p align="left">
