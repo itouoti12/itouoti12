@@ -1,17 +1,17 @@
 # Hi I'm Kansuke Ito 👋
-![profile views](https://komarev.com/ghpvc/?username=itouoti12&label=Profile%20views&color=0e75b6&style=flat)
 
 <!--
 <a href="https://www.github.com/itouoti12" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/itouoti12?logo=github&style=for-the-badge&color=336699&labelColor=1c1917" /></a>
 -->
 
+My portfolio is available [here](https://portfolio.dev.ito-u-oti.com/).
+
 ## Full stack web application engineer
 
 I'm a Web Application Engineer.
 Experienced System Developer at Front End for 3 years, at Back End for 4 years, and at Full Stack for 2 years. I have been committed to creating attractive software with enthusiasm. Improving applications continuously, Enhancing customer satisfaction, and Making a comfortable engineering environment with CICD have been important points of view for me in those experiences. I sincerely enjoy collaborating with teams to produce good software.
 
-<a href="https://www.buymeacoffee.com/itouoti12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 # Summary
 
@@ -40,6 +40,169 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
   <a href="https://linkedin.com/in/itouoti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="itouoti" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/10841272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10841272" height="30" width="40" /></a>
 </p>
+
+# My Side Projects 
+
+
+## [TAMAKI](https://busstop.tamaki.ito-u-oti.com/)
+
+**TAMAKI is a bus arrival time prediction application optimized for commuting to work and school. Open the application and you will immediately see the estimated bus arrival time. No complicated operations are required.**
+
+[![screenshots](/assets/tamaki.png)](https://busstop.tamaki.ito-u-oti.com/)
+
+### Technology
+
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://vectorwiki.com/images/F79rZ__react-native.svg"
+      alt="reactnative"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="60"
+      height="30"
+    />
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"
+      alt="expo"
+      width="60"
+      height="30"
+    />
+  </a>
+  
+## [Storytailor](https://storytailor.app.ito-u-oti.com/)
+
+**Storytailor transforms your saved English vocabulary into illustrated stories, helping you learn words through context. Each story features your selected words highlighted in red, with instant translations available. This immersive approach helps train your brain to think in English naturally while making vocabulary learning engaging and effective.**
+
+[![screenshots](/assets/storytailor.png)](https://storytailor.app.ito-u-oti.com/)
+
+
+
+### Technology
+
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://vectorwiki.com/images/F79rZ__react-native.svg"
+      alt="reactnative"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg"
+      alt="expo"
+      width="60"
+      height="30"
+    />
+  </a>
+  <a href="https://platform.openai.com/docs/overview" target="_blank" rel="noreferrer">
+    <img
+      src="https://upload.vectorlogo.zone/logos/openai/images/2d0c228b-22e2-44ae-8fbd-d1d7646605c2.svg"
+      alt="openai"
+      width="30"
+      height="30"
+    />
+  </a>
+
+
+## [InstantPodEdit](https://1shotedit.com/)
+
+**InstantPodEdit is an AI-powered web tool designed specifically for podcast creators. It automatically removes background noise, eliminates unwanted human sounds (coughs, sniffles), and trims long silences effortlessly. With InstantPodEdit, podcasters can spend less time editing and more time creating, reducing production time from hours to minutes.**
+
+[![screenshots](/assets/instantpodedit.png)](https://1shotedit.com/)
+
+### Technology
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="60"
+      height="30"
+    />
+  </a>
+
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="30"
+      height="30"
+    />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  <a href="https://replicate.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/replicate.svg"
+      alt="replicate"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  <a href="https://www.runpod.io/" target="_blank" rel="noreferrer">
+    <img
+      src="https://cdn.prod.website-files.com/67d20fb9f56ff2ec6a7a657d/685b36ec78014e86b337b96b_runpod-logo-square-p-1600.webp"
+      alt="replicate"
+      width="30"
+      height="30"
+    />
+  </a>
+
+  
+  
+
+
 
 # Experienced Skills
 
@@ -159,7 +322,7 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://global.discourse-cdn.com/flex035/uploads/threejs/original/2X/b/be2f75f72751c11cbe1593c69a99a52900bf12cb.svg"
+      src="https://upload.vectorlogo.zone/logos/threejs/images/83129207-9005-4463-8181-65a3cc3bf8fd.svg"
       alt="Threejs"
       width="40"
       height="40"
@@ -199,7 +362,7 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
   </a>
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://reactnative.dev/img/header_logo.svg"
+      src="https://vectorwiki.com/images/F79rZ__react-native.svg"
       alt="reactnative"
       width="40"
       height="40"
@@ -241,7 +404,7 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
       alt="nextjs"
-      width="40"
+      width="80"
       height="40"
     />
   </a>
@@ -249,14 +412,6 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
       alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
       width="40"
       height="40"
     />
@@ -281,14 +436,6 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
       height="40"
     />
   </a>
-  <a href="https://mybatis.org/mybatis-3/" target="_blank" rel="noreferrer">
-    <img
-      src="https://github.com/mybatis/logo/blob/master/logo-bird-ninja.svg"
-      alt="myBatis"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://site.mockito.org/" target="_blank" rel="noreferrer">
     <img
       src="https://github.com/mockito/mockito.github.io/raw/master/img/logo%402x.png"
@@ -297,6 +444,15 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
       height="40"
     />
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
+      alt="express"
+      width="80"
+      height="40"
+    />
+  </a>
+
 </p>
 
 ## Database
@@ -605,12 +761,7 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 
 # Github status
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itouoti12&theme=dark)](https://git.io/streak-stats)
-
-![Kansuke Ito's GitHub stats](https://github-readme-stats.vercel.app/api?username=itouoti12&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itouoti12&langs_count=8&theme=radical)
 
-
-
+<a href="https://www.buymeacoffee.com/itouoti12" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
