@@ -280,14 +280,14 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
 
 ## Front End Framework
 <p align="left">
-  <a href="https://nightwatchjs.org/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://nightwatchjs.org/" target="_blank" rel="noreferrer">
     <img
       src="https://seeklogo.com/images/N/nightwatchjs-logo-66C5775A1E-seeklogo.com.png"
       alt="Nightwatch"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://testing-library.com/" target="_blank" rel="noreferrer">
     <img
       src="https://cpcontacts.svgmix.com/uploads/0528b1-testing-library.svg"
@@ -296,14 +296,14 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
       height="40"
     />
   </a>
-  <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png"
       alt="Vitest"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://vite.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/820px-Vitejs-logo.svg.png?20220412224743"
@@ -546,14 +546,14 @@ Experienced System Developer at Front End for 3 years, at Back End for 4 years, 
       height="40"
     />
   </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
+  <!-- <a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
     <img
       src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png"
       alt="Github Actions"
       width="40"
       height="40"
     />
-  </a>
+  </a> -->
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg"
