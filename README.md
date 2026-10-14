@@ -60,6 +60,13 @@ I have been a software engineer since 2015, with 11+ years of experience across 
 
   <img src="/assets/instantpodedit.png" alt="InstantPodEdit" width="480" />
 
+  ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![Replicate](https://img.shields.io/badge/Replicate-000000?style=flat-square&logo=replicate&logoColor=white)
+  ![RunPod](https://img.shields.io/badge/RunPod-6366F1?style=flat-square&logo=runpod&logoColor=white)
+
 # Skills
 
 | | |
